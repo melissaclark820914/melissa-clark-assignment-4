@@ -10,5 +10,7 @@
     <p>This is a simple HTML file for the merge conflict assignment.</p>
     <h3>Melissa Clark Pt.2</h3>
     <h4>I like frogs.</h4>
+    <h1>Keith Rich</h1>
+    <p>Hello, my name is Keith Rich and I like to play video games.</p>
 </body>
 </html>
