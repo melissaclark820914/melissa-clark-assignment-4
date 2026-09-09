@@ -8,5 +8,8 @@
 <body>
     <h1>Melissa Clark</h1>
     <p>This is a simple HTML file for the merge conflict assignment.</p>
+    <h1>Keith Rich</h1>
+<p>Hello, my name is Keith Rich and I like to play video games.</p>
+
 </body>
 </html>
